@@ -21,7 +21,9 @@ The analysis is performed using SQL queries executed within a Jupyter Notebook e
 ## Key Findings
 
 The total amount of debt owed by the countries in the dataset.
+
 Identification of the country with the highest amount of debt.
+
 Average debt amounts per debt indicator to understand which types of debt are most common and most burdensome.
 
 ## Conclusion
